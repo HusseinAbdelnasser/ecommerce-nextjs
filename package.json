@@ -9,9 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-brands-svg-icons": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "bcrypt": "^5.1.1",
+    "bootstrap": "^5.3.3",
+    "cloudinary": "^2.2.0",
+    "json-server": "^1.0.0-alpha.23",
+    "mongodb": "^6.6.1",
+    "mongoose": "^8.3.4",
+    "next": "14.2.3",
+    "next-auth": "^4.24.7",
     "react": "^18",
+    "react-bootstrap": "^2.10.2",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "react-toastify": "^10.0.5"
   },
   "devDependencies": {
     "eslint": "^8",
